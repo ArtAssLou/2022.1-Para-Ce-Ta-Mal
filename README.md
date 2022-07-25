@@ -16,4 +16,5 @@ Projeto realizado por equipes das disciplinas de MDS e REQ, Engenharia de Softwa
 | Magno Luiz          | 180042696 | https://github.com/magnluiz         | REQ        |
 | Vinicius Alves      | 190096373 | https://github.com/viniciusalves999 | REQ        |
 
-*oi
+
+
